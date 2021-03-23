@@ -42,7 +42,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-chi-sable.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem-mxnxv.vercel.app//api/spotify-playing" alt="Manav's Spotify Playing" width="350" />](https://open.spotify.com/user/31ufxzyz2tnot34qwcbyokz2cocu)
 
 
 [instagram]: https://www.instagram.com/__mandal_orian__/
