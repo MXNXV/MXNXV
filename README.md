@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616475409~hmac=b3bec2a561d2bb9247b6d9f528b75956" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1616475466~hmac=50342240e09623b5936b2c78325aaeec" />][instagram]
 
 <br />
 
