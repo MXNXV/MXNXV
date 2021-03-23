@@ -34,6 +34,15 @@
 
 [![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MXNXV&show_icons=true&theme=tokyonight)](https://github.com/MXNXV/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXNXV&theme=tokyonight)](https://github.com/MXNXV/github-readme-stats)
+
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-Manav.vercel.app/api/spotify-playing" alt="Manav Spotify Playing" width="350" />](https://open.spotify.com/user/31ufxzyz2tnot34qwcbyokz2cocu)
 
 
 [instagram]: https://www.instagram.com/__mandal_orian__/
