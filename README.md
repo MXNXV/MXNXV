@@ -40,9 +40,9 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-mxnxv.vercel.app//api/spotify-playing" alt="Manav's Spotify Playing" width="350" />](https://open.spotify.com/user/31ufxzyz2tnot34qwcbyokz2cocu)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
 
 [instagram]: https://www.instagram.com/__mandal_orian__/
