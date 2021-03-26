@@ -32,7 +32,7 @@
 
 ---
 
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MXNXV&show_icons=true&theme=tokyonight)](https://github.com/MXNXV/github-readme-stats)
+[![Manav's GitHub stats](https://github-readme-stats-git-master-mxnxv.vercel.app//api?username=MXNXV&show_icons=true&theme=tokyonight)](https://github.com/MXNXV/github-readme-stats)
 
 ---
 
