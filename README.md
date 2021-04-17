@@ -40,9 +40,7 @@
 
 <!--END_SECTION:activity-->
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXNXV&theme=tokyonight)](https://github.com/MXNXV/github-readme-stats)
 
 ---
 
