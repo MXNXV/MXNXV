@@ -1,5 +1,5 @@
 ### Hi there, I'm Manav Mandal 👋
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif?cid=ecf05e479smcuq15qg6e7k0vlbs3si86cvxkxztigo064knv&rid=giphy.gif&ct=g"width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif?cid=ecf05e479smcuq15qg6e7k0vlbs3si86cvxkxztigo064knv&rid=giphy.gif&ct=g" width="500" height="320" />
 
 ## I'm a student and a Coordinator at GDSC MESCOE
 
