@@ -9,6 +9,8 @@
 - 📱  Lets discuss: **manavmandalpune@gmail.com**
 - ❓  Have a doubt? Ask me about **Python, ML, Data Structures, Web Development**
 - ⚡ Check out my projects in action: **https://portfolio-git-main-mxnxv.vercel.app/**
+
+
 <h3 align="center">TALK IS CHEAP,</h3>
 <h3 align="center">SHOW ME THE CODE</h3>
 
