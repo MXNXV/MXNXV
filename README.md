@@ -43,8 +43,13 @@
 <br />
 
 ---
-[![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MXNXV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=FlashTech-dev&show_icons=true&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 
 
