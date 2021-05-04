@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📱  Lets discuss: **manavmandalpune@gmail.com**
 - ❓  Have a doubt? Ask me about **Python, ML, Data Structures, Web Development**
-- ⚡ Check out my projects in action: **https://mxnxv.github.io/#/**
+- ⚡ Check out my projects in action: **https://mxnxv.github.io/**
 
 
 <h3 align="center">TALK IS CHEAP,</h3>
