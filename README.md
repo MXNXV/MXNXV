@@ -44,6 +44,8 @@
 
 ---
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/MXNXV/MXNXV/pull/1) in [MXNXV/MXNXV](https://github.com/MXNXV/MXNXV)
+<!--END_SECTION:activity-->
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
