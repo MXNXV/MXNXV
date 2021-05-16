@@ -44,7 +44,7 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MXNXV/MXNXV/pull/1) in [MXNXV/MXNXV](https://github.com/MXNXV/MXNXV)
+1. 💪 Opened PR [#16](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website/pull/16) in [Developer-Students-Clubs-MESCOE/dsc-mescoe-website](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website)
 <!--END_SECTION:activity-->
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
