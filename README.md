@@ -3,7 +3,7 @@
 ## Hi there, I'm Manav Mandal 👋
 
 
-## I'm a student and a Coordinator at GDSC MESCOE
+## I'm a student and a Technical Core at GDSC MESCOE
 
 - 🌱 I’m currently learning **Tensorflow**
 - 👯 I’m looking to collaborate with developers
