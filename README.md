@@ -44,7 +44,7 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website/pull/20) in [Developer-Students-Clubs-MESCOE/dsc-mescoe-website](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website)
+1. 💪 Opened PR [#21](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website/pull/21) in [Developer-Students-Clubs-MESCOE/dsc-mescoe-website](https://github.com/Developer-Students-Clubs-MESCOE/dsc-mescoe-website)
 <!--END_SECTION:activity-->
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
