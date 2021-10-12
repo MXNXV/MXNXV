@@ -44,7 +44,7 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/MXNXV/Pneumonia-Classification/issues/1) in [MXNXV/Pneumonia-Classification](https://github.com/MXNXV/Pneumonia-Classification)
+1. 🗣 Commented on [#1](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps/issues/1) in [Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps)
 <!--END_SECTION:activity-->
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
