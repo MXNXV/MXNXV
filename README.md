@@ -1,5 +1,7 @@
 # 👋 Hello, World! I'm Manav Mandal 🚀
 
+![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3eGxjdG9icXRkdWFrZHdxM2Rxa2RhNTI0MDMwcHN3eHhrazk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif)
+
 ## 🧠 Data Wizard | Computer Vision Conjurer | Cloud Sorcerer
 
 Welcome to my digital playground! I'm on a mission to transform data into insights, one algorithm at a time. Think of me as a data scientist who doesn't just crunch numbers - I make them dance! 💃📊
