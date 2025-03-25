@@ -1,60 +1,50 @@
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/duKV1YBPhDtd9efnrR/giphy.gif?cid=ecf05e479smcuq15qg6e7k0vlbs3si86cvxkxztigo064knv&rid=giphy.gif&ct=g" width="500" height="320" />
+# 👋 Hello, World! I'm Manav Mandal 🚀
 
-## Hi there, I'm Manav Mandal 👋
+## 🧠 Data Wizard | Computer Vision Conjurer | Cloud Sorcerer
 
+Welcome to my digital playground! I'm on a mission to transform data into insights, one algorithm at a time. Think of me as a data scientist who doesn't just crunch numbers - I make them dance! 💃📊
 
-## I'm a student and a Technical Core at GDSC MESCOE
+### 🎓 Academic Spell Book
+- **Master of Data Science** at Indiana University 📜 (Casting spells with a 3.8/4.0 GPA)
+- **Bachelor of Computer Engineering** from University of Pune 🖥️ (Graduated with a magical 9.16/10 GPA)
 
-- 🌱 I’m currently learning **Tensorflow**
-- 👯 I’m looking to collaborate with developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📱  Lets discuss: **manavmandalpune@gmail.com**
-- ❓  Have a doubt? Ask me about **Python, ML, Data Structures, Web Development**
-- ⚡ Check out my projects in action: **https://mxnxv.github.io/#/**
+### 🛠️ My Tech Superpowers
+- **Languages**: Python (my primary wand) 🐍, R, SQL, MATLAB
+- **Machine Learning Incantations**: 
+  - Supervised Learning ✨
+  - Deep Learning 🧠
+  - Natural Language Processing 💬
+- **Cloud Realms**: Google Cloud Platform, Microsoft Azure (Where data dreams come true) ☁️
 
+### 🚀 Epic Quests (aka Projects)
 
-<h3 align="center">TALK IS CHEAP,</h3>
-<h3 align="center">SHOW ME THE CODE</h3>
+#### 🎵 Music Genre Classification 
+- Built a multi-modal deep learning model that classifies music genres
+- Improved accuracy by 10% (Because why settle for average?) 
+- Reduced training time by 20% (Efficiency is my middle name)
 
-<br />
+#### 💉 Vaccine Sentiment Analysis
+- Decoded 600+ Reddit comments using NLP magic
+- 85% accuracy in sentiment classification 
+- Uncovered public discourse themes faster than you can say "data insights"
 
-### Languages and Tools:
+### 🏆 Notable Achievements
+- Reduced model overfitting by 25% (Take that, overfitting!)
+- Created Dialogflow bots that cut query resolution time by 40% 
+- Led workshops training 150+ students in data science and cloud technologies
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="bootstrap" width="26px" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-<img align="left" alt="cpp" width="26px" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="OpenCV" width="26px" src= "https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
-<img align="left" alt="TensorFlow" width="26px" src= "https://api.iconify.design/logos-tensorflow.svg"/>
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 📊 Currently Exploring
+- 🔬 Computer Vision research at Indiana University School of Optometry
+- 🧩 Pushing the boundaries of 3D scene reconstruction
+- 🤖 Making machines see the world like humans do (but better)
 
-<br />
-<br />
+### 🤝 Let's Connect!
+- 📧 Email: mmanav.3101@gmail.com
+- 💼 LinkedIn: [manav-mandal](https://linkedin.com/in/manav-mandal)
+- 🐱 GitHub: [mxnxv](https://github.com/mxnxv)
 
----
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps/issues/1) in [Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest_2021_Utility_Apps)
-<!--END_SECTION:activity-->
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=MXNXV&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+**Fun Fact**: I turn complex data into simple stories, and complicated problems into elegant solutions! 🌟
 
+![Coding Wizard](https://media.giphy.com/media/ahr5GwmIWHFIc/giphy.gif)
 
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47h07ra4aez5wwi2fgec9a0c7wzr29xtg3lc6mgbmv&rid=giphy.gif&ct=g">
-</div>
-
-
-[instagram]: https://www.instagram.com/__mandal_orian__/
-[linkedin]: https://www.linkedin.com/in/manav-mandal-5b1496196/
-
+*Disclaimer: May cause spontaneous insights and uncontrollable data enthusiasm* 📈✨
