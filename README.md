@@ -45,6 +45,6 @@ Welcome to my digital playground! I'm on a mission to transform data into insigh
 
 **Fun Fact**: I turn complex data into simple stories, and complicated problems into elegant solutions! 🌟
 
-![Coding Wizard](https://media.giphy.com/media/ahr5GwmIWHFIc/giphy.gif)
+![Coding Wizard](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76117ljf2ljoksxq66ajmkp9d2n1q5ktl9mgltfdve1w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 *Disclaimer: May cause spontaneous insights and uncontrollable data enthusiasm* 📈✨
